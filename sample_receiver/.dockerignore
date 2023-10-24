@@ -1,0 +1,21 @@
+# IDE
+.idea/
+.vscode/
+venv
+.history/
+
+# Python
+*.pyc
+__pycache__
+.mypy_cache
+
+# dev
+db.sqlite3
+
+# editor
+*~
+*.*~
+
+dockerfiles
+env
+*.md

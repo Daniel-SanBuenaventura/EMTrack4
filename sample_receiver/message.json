@@ -1,0 +1,15 @@
+  {
+   "customer": "testazure",
+   "created": "2021-09-02T23:11:11",
+   "license_plate":  "ABCD",
+   "fleet_id": "fleet_id",
+   "longitude": 1.1,
+   "latitude": 13.2,
+   "event_type": "pressure_low",
+   "iso_position": 20,
+   "pressure": 21,
+   "temperature": 22,
+   "mileage": 23,
+   "speed": 50,
+   "heading": 25
+  }
